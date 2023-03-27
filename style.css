@@ -181,7 +181,7 @@ padding-top: 100px;
  .page31{
   height: 300px;
   width:100%;
-  margin-left: 50px;
+  padding-right: 10px;
   display: flex;
   
     
@@ -194,7 +194,7 @@ padding-top: 100px;
   width: 240px;
  background-color: #ffffff;
  display: inline-block;
- margin-right: 30px ;
+ margin: 30px ;
  border-radius: 5px;
  justify-content: space-between;
  align-items: center;
